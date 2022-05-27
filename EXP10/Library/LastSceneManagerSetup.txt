@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/chorme download/ShaderTutorials-master/ShaderTutorials-master/Assets/033_River/River.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
